@@ -2,3 +2,7 @@ HTML5 test
 
 This is a test with html5 and the use of git-flow.
 This project is based upon Paul Irish HTML5 Boilerplate, and its purpose is to learn more about HTML5/CSS3.
+
+Releases:
+v.0.0.1-alpha
+This is the first public release and merely includes BlueprintCSS in the css folder.
